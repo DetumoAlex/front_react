@@ -20,7 +20,7 @@ const Body = () => {
         <Card/>
         <Card/>
         <Card/>
-        <Card/>
+        
         
       </section>
     </main>

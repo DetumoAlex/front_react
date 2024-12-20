@@ -4,7 +4,7 @@ nav{
   height: 80px;
   align-items: center;
   justify-content: space-around;
-  background-color: wheat;
+  background-color: rgb(217, 210, 198);
 }
 
 input{
@@ -21,7 +21,11 @@ input{
   justify-content: space-between;
   border-radius: 5px;
 }
-
+.link a{
+  text-decoration: none;
+  color: black;
+  margin: 4px;
+}
 input:active{
   border: none;
   outline: 0;

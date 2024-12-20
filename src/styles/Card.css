@@ -25,16 +25,12 @@
   font-size:large;
   font-weight: bolder;
 }
-
-.btn{
-  color: black;
+.card .btn-container .btn{
   border-radius: 10px;
   font-size: larger;
   text-transform: capitalize;
   font-weight: bold;
-}
-
-button{
+  color: black;
   width: 100%;
 }
 
@@ -45,7 +41,7 @@ button{
   
 }
 
-.btn:hover{
+.card .btn-container .btn:hover{
   color: white;
   background-color: black;
 }
